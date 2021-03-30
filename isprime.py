@@ -1,5 +1,4 @@
 import math as m
-import time as t
 isprime = True
 done = False
 def Run(number): #Returns True or false depending on the number provided
